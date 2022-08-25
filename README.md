@@ -1,5 +1,6 @@
 # Salesforce Tools Project Iinformation
 
+
 ## 1. Create a new Python Virtual Environment:
 - python3 -m venv salesforce_venv
 
@@ -17,5 +18,5 @@
 - install beautifulsoup4
 
 ## 6. Import libraries for project
-import requests
-from bs4 import BeautifulSoup
+- import requests
+- from bs4 import BeautifulSoup
