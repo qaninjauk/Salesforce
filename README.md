@@ -1,6 +1,4 @@
-# SalesforceTools
-
-# Webscrapers
+# Salesforce Tools Project Iinformation
 
 ## 1. Create a new Python Virtual Environment:
 - python3 -m venv salesforce_venv
